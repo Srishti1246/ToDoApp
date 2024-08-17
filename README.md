@@ -17,8 +17,7 @@ User Interface: A clean, responsive SwiftUI interface for seamless task manageme
 git clone https://github.com/Srishti1246/ToDoApp.git
 ```
 
-2. Open the Project:
-Navigate to the project directory and open it in Xcode:
+2. Open the Project - Navigate to the project directory and open it in Xcode:
 ```bash
 cd ToDoApp
 open ToDoApp.xcodeproj
